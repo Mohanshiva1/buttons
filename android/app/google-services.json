@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454100874239",
+    "firebase_url": "https://test-13eba-default-rtdb.firebaseio.com",
+    "project_id": "test-13eba",
+    "storage_bucket": "test-13eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454100874239:android:280474435fcff76685edca",
+        "android_client_info": {
+          "package_name": "com.example.buttons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454100874239-ulqiq3ovs4b07flmdlmdg5p8egp1iqg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vDqvIHElbEjC2apn_P5xBymI0n4Now8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454100874239-ulqiq3ovs4b07flmdlmdg5p8egp1iqg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
